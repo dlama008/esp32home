@@ -4,6 +4,7 @@
 KotiHub is an ESP32-powered smart home information hub that displays real-time data about **indoor climate**, **local weather**, **electricity spot prices**, and **cryptocurrency markets**.
 
 Data can be viewed either on an **onboard OLED display** or through a **responsive web dashboard** hosted directly on the ESP32.
+<img width="1180" height="841" alt="image" src="https://github.com/user-attachments/assets/f793e157-ec9c-43cf-b49e-7adfc1caaace" />
 
 ---
 
