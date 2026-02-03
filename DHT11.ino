@@ -204,7 +204,7 @@ void setup() {
   display.clearDisplay(); display.setTextColor(WHITE); display.setTextSize(1);
   display.setCursor(0, 20); display.print("Yhdistaa WiFi..."); display.display();
   
-  WiFi.begin("Kartano", "Elli1234");
+  WiFi.begin("YOUR_SSID", "YOUR_PASSWORD");
   while (WiFi.status() != WL_CONNECTED) delay(500);
   
   display.clearDisplay(); display.setCursor(0, 20); display.print("Haetaan dataa..."); display.display();
